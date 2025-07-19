@@ -1,0 +1,154 @@
+ville,zone,type_de_sol,culture_recommandee,pH,N,P,K,humidite,temperature,besoin_marche,type_engrais,formule_NPK,frequence_application,mode_application,rendement_par_hectare
+"Abidjan","Péri-urbain","Ferrallitique","Manioc",5.2,130,65,160,75,28,"Forte","Organique","Compost de Jacinthe d'eau",2,"Enfouissement",25
+"Abidjan","Rural","Ferrallitique","Hévéa",4.8,145,75,170,80,27,"Forte","Minéral","12-15-18",2,"Épandage en cercle",2
+"Abidjan","Urbain","Ferrallitique","Tomate",5.5,120,80,150,70,29,"Forte","Minéral","15-15-20",3,"Fertirrigation",40
+"Yamoussoukro","Rural","Ferrugineux","Igname",6.0,150,100,200,65,30,"Forte","Organique","Fumier de volaille",1,"En buttes",20
+"Yamoussoukro","Péri-urbain","Ferrugineux","Maïs",6.2,160,80,110,68,29,"Forte","Minéral","20-10-10",2,"Localisé en ligne",5
+"Bouaké","Rural","Ferrugineux","Anacardier",5.8,110,60,130,55,31,"Forte","Minéral","13-10-15",1,"Au pied des jeunes plants",1
+"Bouaké","Péri-urbain","Ferrugineux","Coton",6.3,140,90,80,60,32,"Moyenne","Minéral","14-23-14",2,"En ligne",2.5
+"Korhogo","Rural","Ferrugineux","Mil",6.5,100,50,70,50,33,"Forte","Organique","Fumier de parc",1,"Avant labour",1.5
+"Korhogo","Rural","Ferrugineux","Sorgho",6.4,110,55,75,52,34,"Forte","Organique","Compost",1,"En poquets",2
+"Daloa","Rural","Ferrallitique","Cacaoyer",5.3,135,70,155,78,26,"Forte","Organique","Cabosses de cacao compostées",2,"Sous canopée",0.8
+"Daloa","Rural","Ferrallitique","Caféier",5.5,125,60,140,75,27,"Moyenne","Minéral","10-20-20",2,"Épandage",1.2
+"San-Pédro","Rural","Ferrallitique","Palmier à huile",4.9,160,80,180,85,28,"Forte","Minéral","12-12-17",3,"Épandage",22
+"San-Pédro","Zone côtière","Hydromorphe","Riz de bas-fond",5.4,120,45,100,90,29,"Forte","Minéral","Urée + 10-20-20",3,"Fractionnement",6
+"Man","Montagneux","Ferrallitique","Banane plantain",5.6,140,90,250,82,25,"Forte","Organique","Lisier de porc",2,"Au pied",30
+"Man","Montagneux","Ferrallitique","Gombo",5.8,110,70,130,76,26,"Moyenne","Organique","Compost",3,"En ligne",8
+"Gagnoa","Rural","Ferrallitique","Cacaoyer",5.2,140,75,160,80,27,"Forte","Organique","Fumure de fond",1,"Sous canopée",0.9
+"Gagnoa","Péri-urbain","Ferrallitique","Manioc",5.4,130,65,160,78,28,"Forte","Organique","Compost",2,"Enfouissement",26
+"Aboisso","Rural","Ferrallitique","Ananas",5.1,125,65,210,82,28,"Moyenne","Minéral","12-6-24",3,"Foliaire",60
+"Aboisso","Zone côtière","Hydromorphe","Canne à sucre",5.5,170,70,120,85,29,"Faible","Minéral","20-5-15",3,"Localisé",80
+"Bondoukou","Rural","Ferrugineux","Igname",5.9,155,105,210,68,30,"Forte","Organique","Fumier",1,"En buttes",22
+"Bondoukou","Péri-urbain","Ferrugineux","Anacardier",6.0,115,65,135,65,31,"Forte","Minéral","13-10-15",1,"Au pied",1.2
+"Odienné","Rural","Ferrugineux","Coton",6.4,145,95,85,58,33,"Moyenne","Minéral","15-20-15",2,"En ligne",2.2
+"Odienné","Péri-urbain","Ferrugineux","Sorgho",6.6,115,60,80,55,34,"Forte","Organique","Fumier de parc",1,"Avant labour",2.1
+"Divo","Rural","Ferrallitique","Caféier",5.6,130,65,145,76,27,"Moyenne","Organique","Pulpe de café compostée",2,"Paillage",1.3
+"Divo","Péri-urbain","Ferrallitique","Maïs",5.8,150,75,105,74,28,"Forte","Minéral","20-10-10",2,"Localisé",5.5
+"Abidjan","Rural","Ferrallitique","Caféier",5.4,130,65,145,76,27,"Moyenne","Organique","Pulpe de café compostée",2,"En paillage",1.1
+"Yamoussoukro","Rural","Ferrugineux","Arachide",6.1,90,110,90,66,30,"Moyenne","Minéral","8-18-12",1,"Localisé",2.5
+"Bouaké","Péri-urbain","Ferrugineux","Igname",5.9,145,105,205,62,31,"Forte","Organique","Fumier",1,"En buttes",18
+"Korhogo","Péri-urbain","Ferrugineux","Arachide",6.3,95,115,95,53,33,"Moyenne","Minéral","8-18-12",1,"Localisé",2.3
+"Daloa","Péri-urbain","Ferrallitique","Manioc",5.1,125,60,150,77,26,"Forte","Organique","Compost",2,"Enfouissement",28
+"San-Pédro","Rural","Ferrallitique","Cacaoyer",5.0,140,75,160,86,27,"Forte","Organique","Fumure de fond",1,"Sous la canopée",1
+"Man","Montagneux","Ferrallitique","Taro",5.7,130,80,220,83,25,"Moyenne","Organique","Compost riche",2,"Au pied",15
+"Gagnoa","Rural","Ferrallitique","Hévéa",4.9,150,80,175,81,27,"Forte","Minéral","13-13-21",2,"Épandage",2.2
+"Aboisso","Rural","Ferrallitique","Palmier à huile",5.0,165,85,185,83,28,"Forte","Minéral","12-12-17",3,"Épandage",23
+"Bondoukou","Rural","Ferrugineux","Sésame",6.1,85,55,65,66,31,"Faible","Organique","Compost",1,"En ligne",0.8
+"Odienné","Rural","Ferrugineux","Mangue",6.2,120,60,140,57,34,"Forte","Organique","Fumier",1,"En couronne",15
+"Divo","Rural","Ferrallitique","Poivrier",5.3,130,70,150,77,27,"Faible","Organique","Compost et paillage",2,"Au pied",3
+"Abidjan","Urbain","Hydromorphe","Cresson",6.0,90,40,80,90,28,"Moyenne","Organique","Culture sur substrat",4,"Continue",5
+"Yamoussoukro","Péri-urbain","Ferrallitique","Ananas",5.3,125,65,205,70,30,"Moyenne","Minéral","12-6-24",3,"Foliaire",65
+"Bouaké","Rural","Vertisol","Sorgho",6.8,115,60,80,60,32,"Forte","Organique","Fumier de parc",1,"Avant labour",2.5
+"Korhogo","Péri-urbain","Ferrallitique","Mangue",5.7,120,60,140,55,33,"Forte","Organique","Fumier",1,"En couronne",16
+"Daloa","Rural","Ferrallitique","Hévéa",4.9,150,80,175,79,26,"Forte","Minéral","13-13-21",2,"Épandage",2.1
+"San-Pédro","Rural","Ferrallitique","Poivrier",5.2,130,70,150,87,28,"Faible","Organique","Compost et paillage",2,"Au pied",3.5
+"Man","Montagneux","Ferrallitique","Caféier",5.4,130,65,145,81,25,"Moyenne","Minéral","15-15-15",2,"Épandage",1.4
+"Gagnoa","Péri-urbain","Ferrallitique","Tomate",5.5,135,95,165,77,28,"Forte","Organique","Compost",3,"Au pied",45
+"Aboisso","Péri-urbain","Sableux","Cocotier",6.5,90,50,150,88,29,"Moyenne","Minéral","13-8-24",2,"En couronne",10
+"Bondoukou","Péri-urbain","Ferrugineux","Maïs",6.1,165,85,115,67,31,"Forte","Minéral","20-10-10",2,"Localisé",6
+"Odienné","Rural","Vertisol","Coton",6.9,155,90,80,58,34,"Moyenne","Minéral","15-20-15",2,"En ligne",2.6
+"Divo","Rural","Ferrallitique","Cacaoyer",5.1,145,80,165,78,27,"Forte","Organique","Fumure organique",1,"Sous canopée",0.9
+"Abidjan","Péri-urbain","Ferrallitique","Aubergine",5.6,125,85,155,74,28,"Moyenne","Minéral","12-12-17",3,"Fertirrigation",20
+"Yamoussoukro","Rural","Vertisol","Soja",6.5,85,75,95,67,30,"Faible","Organique","Inoculant",1,"En ligne",2
+"Bouaké","Péri-urbain","Hydromorphe","Riz de décrue",5.8,115,40,95,80,31,"Moyenne","Minéral","NPK 10-20-20",2,"Localisé",4
+"Korhogo","Rural","Ferrugineux","Anacardier",6.0,115,65,135,53,33,"Forte","Minéral","13-10-15",1,"Au pied",1.1
+"Daloa","Péri-urbain","Ferrugineux","Maïs",6.0,155,75,105,72,27,"Forte","Minéral","20-10-10",2,"Localisé",6.2
+"San-Pédro","Zone côtière","Sableux","Cocotier",6.5,90,50,150,88,29,"Moyenne","Minéral","13-8-24",2,"En couronne",12
+"Man","Vallée","Hydromorphe","Riz de montagne",5.5,110,40,90,85,26,"Faible","Organique","Compost",2,"En terrasse",3
+"Gagnoa","Rural","Ferrugineux","Soja",5.9,80,70,90,73,27,"Faible","Organique","Inoculant",1,"En ligne",2.2
+"Aboisso","Rural","Ferrallitique","Hévéa",4.9,155,85,180,84,28,"Forte","Minéral","13-13-21",2,"Épandage",2.3
+"Bondoukou","Rural","Ferrugineux","Coton",6.2,150,95,85,64,31,"Moyenne","Minéral","14-23-14",2,"En ligne",2.4
+"Odienné","Péri-urbain","Ferrugineux","Niébé",6.5,75,65,55,56,34,"Forte","Organique","Fumier",1,"En poquets",1.8
+"Divo","Péri-urbain","Hydromorphe","Piment",5.7,115,50,110,79,28,"Moyenne","Organique","Compost",3,"Au pied",10
+"Abidjan","Rural","Ferrallitique","Banane plantain",5.5,145,95,255,78,28,"Forte","Organique","Lisier",2,"Au pied",32
+"Yamoussoukro","Péri-urbain","Ferrugineux","Gombo",6.1,115,75,135,67,30,"Moyenne","Organique","Compost",3,"En ligne",9
+"Bouaké","Rural","Ferrallitique","Caféier",5.6,135,70,150,66,31,"Moyenne","Organique","Pulpe compostée",2,"Paillage",1.2
+"Korhogo","Péri-urbain","Ferrugineux","Tomate",6.2,135,95,165,58,33,"Forte","Organique","Fiente",3,"Au pied",42
+"Daloa","Rural","Ferrallitique","Taro",5.4,135,85,225,80,26,"Moyenne","Organique","Compost riche",2,"Au pied",16
+"San-Pédro","Rural","Ferrallitique","Ananas",5.0,125,65,210,86,28,"Moyenne","Minéral","12-6-24",3,"Foliaire",68
+"Man","Montagneux","Ferrallitique","Patate douce",5.8,105,85,125,80,25,"Moyenne","Organique","Compost",2,"En buttes",18
+"Gagnoa","Rural","Ferrallitique","Igname",5.5,150,100,200,79,27,"Forte","Organique","Fumier",1,"En buttes",21
+"Aboisso","Péri-urbain","Ferrallitique","Papaye",5.5,155,155,205,80,28,"Moyenne","Organique","Fumier de volaille",3,"En couronne",50
+"Bondoukou","Rural","Vertisol","Sorgho",6.7,110,55,75,67,31,"Forte","Organique","Fumier de parc",1,"Avant labour",2.3
+"Odienné","Rural","Ferrugineux","Fonio",6.3,60,40,50,57,34,"Faible","Organique","Aucun",0,"Culture extensive",0.7
+"Divo","Rural","Ferrallitique","Palmier à huile",5.2,160,80,180,78,28,"Forte","Minéral","12-12-17",3,"Épandage",24
+"Abidjan","Urbain","Sableux","Basilic",6.0,90,50,80,72,29,"Faible","Organique","En pots",4,"Continue",1
+"Yamoussoukro","Péri-urbain","Hydromorphe","Riz",5.9,125,45,105,75,30,"Forte","Minéral","Urée + NPK",3,"Fractionnement",5
+"Bouaké","Rural","Ferrallitique","Manioc",5.5,135,70,160,65,31,"Forte","Organique","Compost",2,"Enfouissement",24
+"Korhogo","Rural","Vertisol","Sorgho",6.7,110,55,75,57,34,"Forte","Organique","Fumier de parc",1,"Avant labour",2.2
+"Daloa","Rural","Ferrugineux","Soja",5.9,80,70,90,73,27,"Faible","Organique","Inoculant",1,"En ligne",2.1
+"San-Pédro","Zone côtière","Ferrallitique","Gombo",5.7,115,75,135,88,28,"Moyenne","Organique","Compost",3,"En ligne",9
+"Man","Montagneux","Ferrallitique","Haricot vert",5.9,100,60,120,81,25,"Moyenne","Minéral","10-15-15",2,"En ligne",12
+"Gagnoa","Péri-urbain","Ferrugineux","Maïs",5.9,155,80,110,75,28,"Forte","Minéral","20-10-10",2,"Localisé",6.5
+"Aboisso","Rural","Hydromorphe","Taro",5.6,140,90,230,86,28,"Moyenne","Organique","Compost riche",2,"Au pied",17
+"Bondoukou","Péri-urbain","Ferrugineux","Gombo",6.0,110,70,130,66,31,"Moyenne","Organique","Compost",3,"En ligne",8
+"Odienné","Péri-urbain","Vertisol","Tomate",6.8,140,90,170,60,34,"Forte","Organique","Fumier composté",3,"Au pied",40
+"Divo","Rural","Ferrallitique","Hévéa",5.0,150,80,175,79,27,"Forte","Minéral","13-13-21",2,"Épandage",2.4
+"Abidjan","Rural","Vertisol","Riz pluvial",6.5,110,50,90,75,28,"Moyenne","Minéral","15-15-15",2,"A la volée",3.5
+"Yamoussoukro","Rural","Ferrallitique","Hévéa",5.2,150,80,175,70,29,"Forte","Minéral","12-15-18",2,"Épandage en cercle",2.1
+"Bouaké","Péri-urbain","Ferrugineux","Arachide",6.2,95,115,95,61,32,"Moyenne","Minéral","8-18-12",1,"Localisé",2.6
+"Korhogo","Rural","Hydromorphe","Canne à sucre",5.7,175,75,125,85,33,"Faible","Minéral","20-5-15",3,"Localisé",85
+"Daloa","Rural","Ferrallitique","Cacaoyer",5.2,145,80,165,80,26,"Forte","Organique","Fumure organique",1,"Sous canopée",0.85
+"San-Pédro","Zone côtière","Sableux","Manioc",5.8,130,65,160,85,29,"Forte","Organique","Compost et paillage",2,"Enfouissement",22
+"Man","Montagneux","Ferrallitique","Théier",5.0,160,60,80,85,24,"Faible","Organique","Compost acide",3,"Paillage",4
+"Gagnoa","Rural","Ferrallitique","Caféier",5.4,135,70,150,78,27,"Moyenne","Minéral","15-15-15",2,"Épandage",1.4
+"Aboisso","Rural","Ferrallitique","Poivrier",5.3,135,75,155,83,28,"Faible","Organique","Compost",2,"Au pied",3.2
+"Bondoukou","Rural","Ferrugineux","Arachide",6.1,90,110,90,67,31,"Moyenne","Minéral","8-18-12",1,"Localisé",2.4
+"Odienné","Rural","Ferrugineux","Mil",6.5,105,55,75,56,34,"Forte","Organique","Fumier de parc",1,"Avant labour",1.6
+"Divo","Péri-urbain","Ferrallitique","Ananas",5.4,130,70,210,75,28,"Moyenne","Minéral","12-6-24",3,"Foliaire",62
+"Abidjan","Péri-urbain","Ferrallitique","Papaye",5.7,155,155,205,76,28,"Moyenne","Organique","Fumier de volaille",3,"En couronne",55
+"Yamoussoukro","Rural","Ferrugineux","Coton",6.3,150,95,85,65,30,"Moyenne","Minéral","15-20-15",2,"En ligne",2.7
+"Bouaké","Péri-urbain","Vertisol","Maïs",6.7,160,85,115,63,32,"Forte","Minéral","20-10-10",2,"Localisé",6.5
+"Korhogo","Rural","Ferrugineux","Coton",6.2,145,95,85,54,33,"Moyenne","Minéral","15-20-15",2,"En ligne",2.3
+"Daloa","Péri-urbain","Ferrallitique","Igname",5.5,150,100,200,75,27,"Forte","Organique","Fumier",1,"En buttes",20
+"San-Pédro","Rural","Hydromorphe","Taro",5.6,140,90,230,89,28,"Moyenne","Organique","Compost riche",2,"Au pied",16
+"Man","Montagneux","Ferrallitique","Poireau",5.9,130,80,160,80,25,"Faible","Organique","Compost",3,"En ligne",15
+"Gagnoa","Péri-urbain","Hydromorphe","Riz de bas-fond",5.6,120,45,100,85,28,"Forte","Minéral","Urée + NPK",3,"Fractionnement",5.5
+"Aboisso","Zone côtière","Sableux","Patate douce",6.1,105,85,125,84,28,"Moyenne","Organique","Compost",2,"En buttes",17
+"Bondoukou","Rural","Ferrugineux","Soja",6.0,85,75,95,66,31,"Faible","Organique","Inoculant",1,"En ligne",2.3
+"Odienné","Péri-urbain","Sableux","Carotte",6.1,105,125,155,60,34,"Moyenne","Organique","Compost",2,"Mélangé au sol",30
+"Divo","Rural","Ferrallitique","Manioc",5.3,135,70,165,77,28,"Forte","Organique","Compost",2,"Enfouissement",27
+"Abidjan","Urbain","Ferrallitique","Laitue",5.8,100,50,120,70,29,"Forte","Organique","Hydroponie-substrat",4,"Solution nutritive",8
+"Yamoussoukro","Urbain","Ferrugineux","Menthe",6.4,85,45,75,69,30,"Faible","Organique","En pots",4,"Continue",2
+"Bouaké","Péri-urbain","Ferrugineux","Tomate",6.1,140,100,170,62,32,"Forte","Organique","Compost riche",3,"Au pied",44
+"Korhogo","Rural","Ferrugineux","Sésame",6.3,85,55,65,55,33,"Faible","Organique","Compost",1,"En ligne",0.9
+"Daloa","Rural","Ferrallitique","Banane plantain",5.6,150,100,260,79,26,"Forte","Organique","Lisier",2,"Au pied",33
+"San-Pédro","Rural","Ferrallitique","Hévéa",4.9,155,85,180,87,28,"Forte","Minéral","13-13-21",2,"Épandage",2.5
+"Man","Montagneux","Ferrallitique","Igname",5.7,155,105,210,82,25,"Forte","Organique","Fumier",1,"En buttes",23
+"Gagnoa","Rural","Ferrallitique","Palmier à huile",5.1,160,80,180,82,27,"Forte","Minéral","12-12-17",3,"Épandage",25
+"Aboisso","Rural","Ferrallitique","Cacaoyer",5.2,145,80,165,84,28,"Forte","Organique","Fumure de fond",1,"Sous canopée",0.95
+"Bondoukou","Péri-urbain","Vertisol","Maïs",6.6,160,85,115,68,31,"Forte","Minéral","20-10-10",2,"Localisé",6.8
+"Odienné","Rural","Ferrugineux","Arachide",6.2,95,115,95,57,34,"Moyenne","Minéral","8-18-12",1,"Localisé",2.7
+"Divo","Péri-urbain","Ferrallitique","Gombo",5.7,115,75,135,76,28,"Moyenne","Organique","Compost",3,"En ligne",10
+"Abidjan","Péri-urbain","Hydromorphe","Riz",5.8,120,45,100,88,28,"Forte","Minéral","NPK 10-20-20",3,"Fractionnement",5.8
+"Yamoussoukro","Rural","Ferrugineux","Sorgho",6.4,115,60,80,66,30,"Forte","Organique","Fumier de parc",1,"Avant labour",2.4
+"Bouaké","Rural","Ferrugineux","Niébé",6.2,75,65,55,60,32,"Forte","Organique","Fumier",1,"En poquets",1.9
+"Korhogo","Péri-urbain","Vertisol","Coton",6.8,155,90,80,59,33,"Moyenne","Minéral","15-20-15",2,"En ligne",2.8
+"Daloa","Rural","Ferrallitique","Caféier",5.5,135,70,150,78,26,"Moyenne","Organique","Pulpe compostée",2,"Paillage",1.35
+"San-Pédro","Péri-urbain","Ferrallitique","Manioc",5.4,135,70,165,86,28,"Forte","Organique","Compost",2,"Enfouissement",29
+"Man","Péri-urbain","Ferrallitique","Tomate",5.7,130,90,160,81,25,"Moyenne","Organique","Compost",3,"Au pied",46
+"Gagnoa","Rural","Ferrallitique","Taro",5.4,135,85,225,81,27,"Moyenne","Organique","Compost riche",2,"Au pied",17
+"Aboisso","Rural","Ferrallitique","Caféier",5.5,130,65,145,83,28,"Moyenne","Minéral","15-15-15",2,"Épandage",1.25
+"Bondoukou","Rural","Ferrugineux","Igname",5.8,160,110,215,67,31,"Forte","Organique","Fumier de volaille",1,"En buttes",24
+"Odienné","Rural","Ferrugineux","Maïs",6.4,155,80,110,58,34,"Forte","Minéral","20-10-10",2,"Localisé",5.8
+"Divo","Rural","Ferrallitique","Banane plantain",5.6,150,100,260,78,28,"Forte","Organique","Lisier",2,"Au pied",35
+"Abidjan","Rural","Sableux","Patate douce",6.0,105,85,125,74,29,"Moyenne","Organique","Compost",2,"En buttes",20
+"Yamoussoukro","Péri-urbain","Ferrugineux","Patate douce",6.1,110,90,130,67,30,"Moyenne","Organique","Compost",2,"En buttes",19
+"Bouaké","Rural","Ferrallitique","Soja",5.9,85,75,95,64,31,"Faible","Organique","Inoculant",1,"En ligne",2.4
+"Korhogo","Péri-urbain","Ferrugineux","Oignon",6.4,125,85,105,57,33,"Moyenne","Minéral","15-15-15",3,"Fertirrigation",25
+"Daloa","Péri-urbain","Hydromorphe","Riz",5.7,125,50,105,82,27,"Forte","Minéral","Urée + NPK",3,"Fractionnement",6.1
+"San-Pédro","Rural","Ferrallitique","Palmier à huile",5.0,165,85,185,88,28,"Forte","Minéral","12-12-17",3,"Épandage",26
+"Man","Montagneux","Ferrallitique","Caféier",5.3,135,70,150,83,25,"Moyenne","Organique","Pulpe compostée",2,"Paillage",1.5
+"Gagnoa","Rural","Ferrugineux","Coton",6.0,145,95,85,74,28,"Moyenne","Minéral","14-23-14",2,"En ligne",2.5
+"Aboisso","Péri-urbain","Ferrallitique","Igname",5.6,150,100,200,81,28,"Forte","Organique","Fumier",1,"En buttes",23
+"Bondoukou","Rural","Ferrugineux","Mil",6.3,105,55,75,66,31,"Forte","Organique","Fumier de parc",1,"Avant labour",1.7
+"Odienné","Rural","Vertisol","Sorgho",6.8,120,65,85,59,34,"Forte","Organique","Compost",1,"En poquets",2.4
+"Divo","Rural","Ferrallitique","Cacaoyer",5.2,145,80,165,79,27,"Forte","Organique","Fumure de fond",1,"Sous canopée",1.1
+"Abidjan","Péri-urbain","Ferrallitique","Piment",5.6,120,55,115,75,28,"Moyenne","Minéral","15-10-20",3,"Fertirrigation",12
+"Yamoussoukro","Rural","Ferrugineux","Anacardier",5.9,115,65,135,67,30,"Forte","Minéral","13-10-15",1,"Au pied",1.3
+"Bouaké","Rural","Ferrugineux","Sésame",6.1,90,60,70,60,32,"Faible","Organique","Compost",1,"En ligne",1
+"Korhogo","Rural","Ferrugineux","Pastèque",6.2,125,85,155,56,33,"Moyenne","Minéral","10-20-20",2,"Au pied",35
+"Daloa","Péri-urbain","Ferrallitique","Gombo",5.8,115,75,135,76,26,"Moyenne","Organique","Compost",3,"En ligne",11
+"San-Pédro","Péri-urbain","Sableux","Gingembre",6.0,130,100,180,85,29,"Faible","Organique","Compost riche",3,"En pots",14
+"Man","Montagneux","Hydromorphe","Riz de montagne",5.4,115,45,95,86,25,"Faible","Organique","Compost",2,"En terrasse",3.2
+"Gagnoa","Rural","Ferrallitique","Ananas",5.3,130,70,210,80,27,"Moyenne","Minéral","12-6-24",3,"Foliaire",66```
