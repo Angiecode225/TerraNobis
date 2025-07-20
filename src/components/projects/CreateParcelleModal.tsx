@@ -41,7 +41,7 @@ const CreateParcelleModal: React.FC<CreateParcelleModalProps> = ({ isOpen, onClo
       content: (
         <input
           type="text"
-          className="w-full px-3 py-2 border border-accent rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
+          className="w-full max-w-xs mx-auto px-3 py-2 border border-accent rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
           placeholder="Ex: Parcelle Nord"
           value={form.name}
           onChange={e => setForm({ ...form, name: e.target.value })}
@@ -56,7 +56,7 @@ const CreateParcelleModal: React.FC<CreateParcelleModalProps> = ({ isOpen, onClo
       content: (
         <input
           type="text"
-          className="w-full px-3 py-2 border border-accent rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
+          className="w-full max-w-xs mx-auto px-3 py-2 border border-accent rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
           placeholder="Village, Région, GPS..."
           value={form.location}
           onChange={e => setForm({ ...form, location: e.target.value })}
@@ -73,7 +73,7 @@ const CreateParcelleModal: React.FC<CreateParcelleModalProps> = ({ isOpen, onClo
           type="number"
           min={0.01}
           step={0.01}
-          className="w-full px-3 py-2 border border-accent rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
+          className="w-full max-w-xs mx-auto px-3 py-2 border border-accent rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
           placeholder="Ex: 2.5"
           value={form.surfaceArea || ''}
           onChange={e => setForm({ ...form, surfaceArea: parseFloat(e.target.value) || 0 })}
@@ -87,7 +87,7 @@ const CreateParcelleModal: React.FC<CreateParcelleModalProps> = ({ isOpen, onClo
       icon: <Sprout className="h-5 w-5 text-accent" />, 
       content: (
         <select
-          className="w-full px-3 py-2 border border-accent rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
+          className="w-full max-w-xs mx-auto px-3 py-2 border border-accent rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
           value={form.soilType}
           onChange={e => setForm({ ...form, soilType: e.target.value })}
         >
